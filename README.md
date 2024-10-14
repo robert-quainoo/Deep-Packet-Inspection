@@ -58,4 +58,3 @@ This Python script functions as a TCP/IP client to communicate with a server. It
    python client.py
    ```
 4. The client will automatically handle communication with the server and display results or secret flags in the console.
-
